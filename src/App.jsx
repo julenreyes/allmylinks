@@ -5,28 +5,21 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Sergio Fernández</h1>
+        <h1>Julen Reyes</h1>
         <div className="links">
-          <LinkButton text="X - Twitter" url="https://x.com/Sergiofernzv?mx=2"/>
-          <LinkButton text="Instagram" url="https://www.instagram.com/sergiofernandezv/?hl=es"/>
-          <LinkButton text="TikTok" url="https://www.tiktok.com/@sergiofernzv?is_from_webapp=1&sender_device=pc"/>
-          <LinkButton text="Telegram" url="https://t.me/sergiofernandezvoficial"/>
-          <LinkButton text="El mejor contenido 🔞" url="https://onlyfans.com/sergiofernandezv"/>
+          <LinkButton text="X - Twitter" url="https://x.com/juulenreyes"/>
+          <LinkButton text="Instagram" url="https://www.instagram.com/juulenreyes/"/>
+
+          <LinkButton text="El mejor contenido 🔞" url="https://onlyfans.com/juulenreyes"/>
         </div>
         <div className="social-media">
-          <a href="https://x.com/Sergiofernzv?mx=2">
+          <a href="https://x.com/juulenreyes">
             <img src="assets/x.jpg" alt="Twitter" />
           </a>
-          <a href="https://www.instagram.com/sergiofernandezv/?hl=es">
+          <a href="https://www.instagram.com/juulenreyes/">
             <img src="assets/instagram.jpg" alt="Instagram" />
           </a>
-          <a href="https://t.me/sergiofernandezvoficial">
-            <img src="assets/telegram.jpg" alt="Telegram" />
-          </a>
-          <a href="https://www.tiktok.com/@sergiofernzv?is_from_webapp=1&sender_device=pc">
-            <img src="assets/tiktok.jpg" alt="TikTok" />
-          </a>
-          <a href="https://onlyfans.com/sergiofernandezv">
+          <a href="https://onlyfans.com/juulenreyes">
             <img src="assets/only.png" alt="Only" />
           </a>
         </div>
