@@ -10,7 +10,11 @@ function App() {
           <LinkButton text="X - Twitter" url="https://x.com/juulenreyes"/>
           <LinkButton text="Instagram" url="https://www.instagram.com/juulenreyes/"/>
 
-          <LinkButton text="El mejor contenido 🔞" url="https://onlyfans.com/juulenreyes"/>
+          <LinkButton text="Onlyfans 🔞" url="https://onlyfans.com/juulenreyes"/>
+          <LinkButton text="Loverfans 🔞" url="https://loverfans.com/juulenreyes"/>
+          <LinkButton text="dirtyFans 🔞" url="https://www.dirtyfans.com/juulenreyes"/>
+
+       
         </div>
         <div className="social-media">
           <a href="https://x.com/juulenreyes">
@@ -21,6 +25,12 @@ function App() {
           </a>
           <a href="https://onlyfans.com/juulenreyes">
             <img src="assets/only.png" alt="Only" />
+          </a>
+          <a href="https://loverfans.com/juulenreyes">
+            <img src="assets/lover.jpg" alt="Lover" />
+          </a>
+          <a href="https://www.dirtyfans.com/juulenreyes">
+            <img src="assets/dirty.png" alt="Dirty" />
           </a>
         </div>
       </div>
